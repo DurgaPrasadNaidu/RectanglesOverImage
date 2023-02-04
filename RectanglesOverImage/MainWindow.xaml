@@ -1,0 +1,36 @@
+﻿<!-- A non-resizable window having a fixed size that starts at the center of the screen -->
+<Window x:Class="RectanglesOverImage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RectanglesOverImage"
+        mc:Ignorable="d"
+        Title="Rectangles over Image" 
+        Height="600" Width="800" 
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    
+    <DockPanel>
+        <!-- A panel holding the buttons to load and save images -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="btnLoad" Content="Load Image" Width="200" Click="btnLoad_Click" Margin="10"/>
+            <Button x:Name="btnSave" Content="Save Image" Width="200" Click="btnSave_Click" Margin="10"/>
+        </StackPanel>
+        
+        <!-- Grid layout to hold image and canvas for drawing -->
+        <Grid x:Name="grd" DockPanel.Dock="Bottom">
+            
+            <!-- Border helps keeping the image within certain bounds -->
+            <Border Background="AliceBlue">
+                <Image x:Name="img" />
+            </Border>
+            
+            <!-- Canvas to draw shapes (rectangles) -->
+            <!-- The mouse events are registered to the canvas helpful for drawing -->
+            <Canvas x:Name="canvas" Background="Transparent"
+                    MouseDown="canvas_MouseDown" MouseMove="canvas_MouseMove" MouseUp="canvas_MouseUp">
+            </Canvas>
+        </Grid>
+    </DockPanel>
+</Window>

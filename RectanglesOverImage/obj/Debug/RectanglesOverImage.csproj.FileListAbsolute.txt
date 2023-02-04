@@ -1,0 +1,33 @@
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\bin\Debug\RectanglesOverImage.exe.config
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\bin\Debug\RectanglesOverImage.exe
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\bin\Debug\RectanglesOverImage.pdb
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.AssemblyReference.cache
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\MainWindow.g.cs
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\App.g.cs
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage_MarkupCompile.cache
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage_MarkupCompile.lref
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\MainWindow.baml
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.g.resources
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.Properties.Resources.resources
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.GenerateResource.cache
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.CoreCompileInputs.cache
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.exe
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\RectanglesOverImage.pdb
+E:\2023-01 (JAN)\accepted\20230131001_WPF_Rectangles-Durgaprasad\developed\RectanglesOverImage\obj\Debug\App.baml
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\bin\Debug\RectanglesOverImage.exe.config
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\bin\Debug\RectanglesOverImage.exe
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\bin\Debug\RectanglesOverImage.pdb
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.AssemblyReference.cache
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\MainWindow.g.cs
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\App.g.cs
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage_MarkupCompile.cache
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage_MarkupCompile.lref
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\App.baml
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\MainWindow.baml
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.g.resources
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.Properties.Resources.resources
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.GenerateResource.cache
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.csproj.CoreCompileInputs.cache
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.exe
+C:\Users\jagar\OneDrive\Desktop\RectanglesOverImage\obj\Debug\RectanglesOverImage.pdb
